@@ -1,4 +1,4 @@
-package com.plcoding.materialcalculator.domain
+package com.example.android.materialcalculator.domain
 
 sealed interface ExpressionPart {
     data class Number(val number: Double): ExpressionPart

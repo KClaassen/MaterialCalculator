@@ -1,4 +1,5 @@
-package com.plcoding.materialcalculator.domain
+package com.example.android.materialcalculator.domain
+
 
 class ExpressionParser(
     private val calculation: String

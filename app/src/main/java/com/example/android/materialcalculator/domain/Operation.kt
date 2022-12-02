@@ -1,4 +1,4 @@
-package com.plcoding.materialcalculator.domain
+package com.example.android.materialcalculator.domain
 
 enum class Operation(val symbol: Char) {
     ADD('+'),
