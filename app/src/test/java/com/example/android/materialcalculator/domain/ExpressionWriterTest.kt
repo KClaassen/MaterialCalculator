@@ -1,4 +1,4 @@
-package com.plcoding.materialcalculator.domain
+package com.example.android.materialcalculator.domain
 
 import com.google.common.truth.Truth.assertThat
 import org.junit.Before

@@ -1,4 +1,4 @@
-package com.plcoding.materialcalculator.domain
+package com.example.android.materialcalculator.domain
 
 sealed interface CalculatorAction {
     data class Number(val number: Int): CalculatorAction
